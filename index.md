@@ -4,7 +4,7 @@
 
 ### My Projects
 
-[Expedia Hotel Cluster Recommendation](/sample_page)
+[Expedia Hotel Cluster Recommendation](/pdf/Expedia Hotel Recommendation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
